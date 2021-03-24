@@ -1,0 +1,31 @@
+{
+  "name": "@itwmw/markdown-it-plugin-katex",
+  "version": "0.13.0",
+  "description": "Fast math support for markdown-it with KaTeX",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "KaTeX",
+    "math",
+    "LaTeX",
+    "markdown-it-plugin",
+    "markdown-it",
+    "weimeng"
+  ],
+  "license": "Apache 2.0",
+  "author": {
+    "name": "微梦团队<Micro Dream Team>",
+    "email": "npm@itwmw.com"
+  },
+  "bugs": {
+    "email": "npm@itwmw.com",
+    "url": "https://github.com/MicroDreamTeam/markdown-it-plugin-katex/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:MicroDreamTeam/markdown-it-plugin-katex.git"
+  },
+  "dependencies": {
+    "katex": "^0.13"
+  }
+}
